@@ -1,7 +1,9 @@
 # Analysis of IKEA app reviews from the Google Play Store
 
 ## Overview
-This GitHub repository contains the files and documentation for a comprehensive analysis exploring review sentiment about the company's app in the Google Play Store.
+This GitHub repository contains the files and documentation for a comprehensive analysis exploring review sentiment about the company's app in the Google Play Store.<br/>
+File with the data and the analysis: [2023-10-03-ikea_app_reviews_analysis-v1.xlsx](./2023-10-03-ikea_app_reviews_analysis-v1.xlsx)<br/>
+File with the presentation: [2023-10-03-ikea_app_reviews_presentation.pdf](./2023-10-03-ikea_app_reviews_presentation.pdf)
 
 ## Dataset
 I used a dataset collected from the Google Play Store for a project in the Introduction to Data Analytics Course 2023 for the [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo). Submitted by - Giorgia Faedda.
